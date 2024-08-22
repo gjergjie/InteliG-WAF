@@ -168,6 +168,8 @@ This document serves as the detailed product manifest for the development of a W
 - **Data Storage**: Local HashMap for rules, optional database for persistent storage.
 - **Network Traffic**: Inbound and outbound HTTP and TCP traffic flowing through the WAF.
 
+![mermaid](https://github.com/user-attachments/assets/b89d45c9-d75c-4008-88e3-a378dcfd814a)
+
 ## 7. Conclusion
 
 This manifest outlines a comprehensive plan for developing a robust, efficient, and scalable Web Application Firewall (WAF) that integrates seamlessly with popular web servers and operates as a standalone solution. The WAF will provide advanced threat detection capabilities, with the potential to leverage AI/LLM for enhanced security. The web interface ensures that users can easily configure and monitor the WAF, making it a powerful tool for securing web applications against modern threats.
